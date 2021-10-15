@@ -1,2 +1,2 @@
-# hello-world
-A random repository
+School Countdown
+Countdown for School, obviously.
